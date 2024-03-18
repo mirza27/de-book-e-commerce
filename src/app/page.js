@@ -1,5 +1,5 @@
 import Image from "next/image";
-const db = require(".././db/db.js");
+const db = require("../../db/db.js");
 
 export default function Home() {
 
